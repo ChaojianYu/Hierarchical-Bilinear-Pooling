@@ -1,0 +1,16 @@
+test_iter: 2897
+test_interval: 1000
+display: 100
+max_iter: 200000
+
+lr_policy: "multistep"
+base_lr: 0.001
+gamma: 0.5
+stepvalue: 50000
+
+momentum: 0.9
+weight_decay: 0.0005
+snapshot: 10000
+snapshot_prefix: "myexample/HBP/snapshot/ft_all"
+net: "myexample/HBP/ft_all.prototxt"
+iter_size: 2
