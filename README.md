@@ -1,6 +1,6 @@
 # Hierarchical Bilinear Pooling for Fine-Grained Visual Recognition
 
-This branch is developed for fine-grained recognition, the related paper is as follows.
+This branch is developed for fine-grained recognition, the related paper is as follows:
     
     Hierarchical Bilinear Pooling for Fine-Grained Visual Recognition[C]
     Chaojian Yu, Xinyi Zhao, Qi Zheng, Peng Zhang, Xinge You*
@@ -33,7 +33,7 @@ This branch is developed for fine-grained recognition, the related paper is as f
 ### Train model
 1. The Installation completely the same as [Caffe](http://caffe.berkeleyvision.org/). Please follow the [installation instructions](http://caffe.berkeleyvision.org/installation.html). Make sure you have correctly installed before using our code. 
 2. Download the [CUB dataset](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html) and [VGG16 model](https://gist.github.com/ksimonyan/211839e770f7b538e2d8) for training.
-3. Preprocess the CUB dataset and creat list for training set and validation set. Place them in myexample/data/
+3. Preprocess the CUB dataset and creat list for training set and validation set, place them in myexample/data/
 4. Fine tune the last layer
 
    	   ./myexample/HBP/ft_last_layer.sh
@@ -46,13 +46,14 @@ This branch is developed for fine-grained recognition, the related paper is as f
 The fine tuned model is available: [baidu skydrive](https://pan.baidu.com/s/1cOktfFq8-PJWExJyHLI4sg)
 
 ### Contact
-All codes are tested on Titan X GPU. If you have any further questions or comments, please contact Chaojian Yu(yucj@hust.edu.cn)
+All codes are tested on Titan X GPU. If you have any further questions or comments, please contact Chaojian Yu (yucj@hust.edu.cn)
 
 ### Citation
 If you found our method useful, please consider citing our work:
-@article{yu2018hierarchical,
-  title={Hierarchical Bilinear Pooling for Fine-Grained Visual Recognition},
-  author={Yu, Chaojian and Zhao, Xinyi and Zheng, Qi and Zhang, Peng and You, Xinge},
-  journal={arXiv preprint arXiv:1807.09915},
-  year={2018}
-}
+
+    @article{yu2018hierarchical,
+      title={Hierarchical Bilinear Pooling for Fine-Grained Visual Recognition},
+      author={Yu, Chaojian and Zhao, Xinyi and Zheng, Qi and Zhang, Peng and You, Xinge},
+      journal={arXiv preprint arXiv:1807.09915},
+      year={2018}
+    }
