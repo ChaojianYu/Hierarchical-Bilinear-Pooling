@@ -43,7 +43,7 @@ This branch is developed for fine-grained recognition, the related paper is as f
        ./myexample/HBP/ft_all.sh
 
 ### Fine tuned model
-The fine tuned model is available: [baidu skydrive](https://pan.baidu.com/s/1cOktfFq8-PJWExJyHLI4sg)
+The fine tuned model is available: [google drive](https://drive.google.com/file/d/13J06t4jXz51a55-oca10iDfjKvDqHHTK/view?usp=sharing) [baidu skydrive](https://pan.baidu.com/s/1cOktfFq8-PJWExJyHLI4sg)
 
 ### Contact
 All codes are tested on Titan X GPU. If you have any further questions or comments, please contact Chaojian Yu (yucj@hust.edu.cn)
