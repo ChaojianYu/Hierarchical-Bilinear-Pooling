@@ -46,10 +46,10 @@ This branch is developed for fine-grained recognition, the related paper is as f
 The fine tuned model is available: [google drive](https://drive.google.com/file/d/13J06t4jXz51a55-oca10iDfjKvDqHHTK/view?usp=sharing) [baidu skydrive](https://pan.baidu.com/s/1cOktfFq8-PJWExJyHLI4sg)
 
 ### Contact
-All codes are tested on Titan X GPU. If you have any further questions or comments, please don't hesitate to contact Chaojian Yu (yucj@hust.edu.cn)
+All codes are tested on Titan X GPU. If you have any further questions or comments, feel free to contact Chaojian Yu (yucj@hust.edu.cn)
 
 ### Citation
-If you found our method useful, please consider citing our work:
+If the code helps your research, please consider to cite our work:
 
     @article{yu2018hierarchical,
       title={Hierarchical Bilinear Pooling for Fine-Grained Visual Recognition},
