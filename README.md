@@ -49,7 +49,7 @@ The fine tuned model is available: [google drive](https://drive.google.com/file/
 All codes are tested on Titan X GPU. If you have any further questions or comments, feel free to contact Chaojian Yu (yucj@hust.edu.cn)
 
 ### Citation
-If the code helps your research, please consider to cite our work:
+If you find our code useful, please consider citing our work:
 
     @article{yu2018hierarchical,
       title={Hierarchical Bilinear Pooling for Fine-Grained Visual Recognition},
