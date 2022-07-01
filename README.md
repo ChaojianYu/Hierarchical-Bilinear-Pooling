@@ -46,7 +46,7 @@ This branch is developed for fine-grained recognition, the related paper is as f
 The fine tuned model is available: [google drive](https://drive.google.com/file/d/13J06t4jXz51a55-oca10iDfjKvDqHHTK/view?usp=sharing) [baidu skydrive](https://pan.baidu.com/s/1cOktfFq8-PJWExJyHLI4sg)
 
 ### Citation
-If you find our code useful, please consider citing our work:
+If you find our code helpful, please consider citing our work:
 
     @article{yu2018hierarchical,
       title={Hierarchical Bilinear Pooling for Fine-Grained Visual Recognition},
